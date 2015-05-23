@@ -1,0 +1,45 @@
+{
+  "name": "grunt-dockerfile",
+  "description": "Docker grunt tasks",
+  "version": "0.0.0",
+  "homepage": "http://blog.divhide.com",
+  "author": {
+    "name": "Oscar Brito",
+    "url": "http://blog.divhide.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/divhide/grunt-dockerfile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/divhide/grunt-dockerfile/issues"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "lodash": ">=1.3"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cli": "*"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "grunt",
+    "gruntplugin",
+    "docker",
+    "dockerfile",
+    "devops"
+  ],
+  "contributors": [
+    {
+      "name": "Oscar Brito",
+      "url": "http://blog.divhide.com"
+    }
+  ]
+
+}
